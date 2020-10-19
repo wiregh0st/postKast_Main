@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".3g2" ProgId="VLC.3g2" ApplicationName="VLC media player" />
+  <Association Identifier=".3gp" ProgId="VLC.3gp" ApplicationName="VLC media player" />
+  <Association Identifier=".3gp2" ProgId="VLC.3gp2" ApplicationName="VLC media player" />
+  <Association Identifier=".3gpp" ProgId="VLC.3gpp" ApplicationName="VLC media player" />
+  <Association Identifier=".3mf" ProgId="AppXr0rz9yckydawgnrx5df1t9s57ne60yhn" ApplicationName="Print 3D" />
+  <Association Identifier=".aac" ProgId="VLC.aac" ApplicationName="VLC media player" />
+  <Association Identifier=".adt" ProgId="WMP11.AssocFile.ADTS" ApplicationName="Windows Media Player" />
+  <Association Identifier=".adts" ProgId="VLC.adts" ApplicationName="VLC media player" />
+  <Association Identifier=".AIF" ProgId="VLC.aif" ApplicationName="VLC media player" />
+  <Association Identifier=".AIFC" ProgId="VLC.aifc" ApplicationName="VLC media player" />
+  <Association Identifier=".AIFF" ProgId="VLC.aiff" ApplicationName="VLC media player" />
+  <Association Identifier=".amr" ProgId="VLC.amr" ApplicationName="VLC media player" />
+  <Association Identifier=".asf" ProgId="VLC.asf" ApplicationName="VLC media player" />
+  <Association Identifier=".ASX" ProgId="VLC.asx" ApplicationName="VLC media player" />
+  <Association Identifier=".AU" ProgId="VLC.au" ApplicationName="VLC media player" />
+  <Association Identifier=".avi" ProgId="VLC.avi" ApplicationName="VLC media player" />
+  <Association Identifier=".bmp" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".cda" ProgId="VLC.cda" ApplicationName="VLC media player" />
+  <Association Identifier=".dib" ProgId="Paint.Picture" ApplicationName="Paint" />
+  <Association Identifier=".emf" ProgId="emffile" ApplicationName="Paint" />
+  <Association Identifier=".epub" ProgId="AppXvepbp3z66accmsd0x877zbbxjctkpr6t" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".fbx" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".flac" ProgId="VLC.flac" ApplicationName="VLC media player" />
+  <Association Identifier=".gif" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".glb" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".gltf" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".htm" ProgId="FirefoxHTML" ApplicationName="Firefox" />
+  <Association Identifier=".html" ProgId="FirefoxHTML" ApplicationName="Firefox" />
+  <Association Identifier=".ico" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".jfif" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".jpe" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".jpeg" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".jpg" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".M1V" ProgId="VLC.m1v" ApplicationName="VLC media player" />
+  <Association Identifier=".m2t" ProgId="VLC.m2t" ApplicationName="VLC media player" />
+  <Association Identifier=".m2ts" ProgId="VLC.m2ts" ApplicationName="VLC media player" />
+  <Association Identifier=".M2V" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Windows Media Player" />
+  <Association Identifier=".m3u" ProgId="VLC.m3u" ApplicationName="VLC media player" />
+  <Association Identifier=".m4a" ProgId="VLC.m4a" ApplicationName="VLC media player" />
+  <Association Identifier=".m4p" ProgId="VLC.m4p" ApplicationName="VLC media player" />
+  <Association Identifier=".m4v" ProgId="VLC.m4v" ApplicationName="VLC media player" />
+  <Association Identifier=".MID" ProgId="VLC.mid" ApplicationName="VLC media player" />
+  <Association Identifier=".MIDI" ProgId="WMP11.AssocFile.MIDI" ApplicationName="Windows Media Player" />
+  <Association Identifier=".MK3D" ProgId="WMP11.AssocFile.MK3D" ApplicationName="Windows Media Player" />
+  <Association Identifier=".MKA" ProgId="VLC.mka" ApplicationName="VLC media player" />
+  <Association Identifier=".mkv" ProgId="VLC.mkv" ApplicationName="VLC media player" />
+  <Association Identifier=".mov" ProgId="VLC.mov" ApplicationName="VLC media player" />
+  <Association Identifier=".MP2" ProgId="VLC.mp2" ApplicationName="VLC media player" />
+  <Association Identifier=".MP2V" ProgId="VLC.mp2v" ApplicationName="VLC media player" />
+  <Association Identifier=".mp3" ProgId="VLC.mp3" ApplicationName="VLC media player" />
+  <Association Identifier=".mp4" ProgId="VLC.mp4" ApplicationName="VLC media player" />
+  <Association Identifier=".mp4v" ProgId="VLC.mp4v" ApplicationName="VLC media player" />
+  <Association Identifier=".mpa" ProgId="VLC.mpa" ApplicationName="VLC media player" />
+  <Association Identifier=".MPE" ProgId="VLC.mpe" ApplicationName="VLC media player" />
+  <Association Identifier=".mpeg" ProgId="VLC.mpeg" ApplicationName="VLC media player" />
+  <Association Identifier=".mpg" ProgId="VLC.mpg" ApplicationName="VLC media player" />
+  <Association Identifier=".mpv2" ProgId="VLC.mpv2" ApplicationName="VLC media player" />
+  <Association Identifier=".mts" ProgId="VLC.mts" ApplicationName="VLC media player" />
+  <Association Identifier=".obj" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".oxps" ProgId="Windows.XPSReachViewer" ApplicationName="XPS Viewer" />
+  <Association Identifier=".pdf" ProgId="AcroExch.Document.DC" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".ply" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".png" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".ra" ProgId="VLC.ra" ApplicationName="VLC media player" />
+  <Association Identifier=".ram" ProgId="VLC.ram" ApplicationName="VLC media player" />
+  <Association Identifier=".rle" ProgId="rlefile" ApplicationName="Paint" />
+  <Association Identifier=".RMI" ProgId="VLC.rmi" ApplicationName="VLC media player" />
+  <Association Identifier=".s3m" ProgId="VLC.s3m" ApplicationName="VLC media player" />
+  <Association Identifier=".SND" ProgId="VLC.snd" ApplicationName="VLC media player" />
+  <Association Identifier=".stl" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".tif" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".tiff" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".TS" ProgId="VLC.ts" ApplicationName="VLC media player" />
+  <Association Identifier=".TTS" ProgId="VLC.tts" ApplicationName="VLC media player" />
+  <Association Identifier=".txt" ProgId="txtfile" ApplicationName="Notepad" />
+  <Association Identifier=".url" ProgId="IE.AssocFile.URL" ApplicationName="Internet Browser" />
+  <Association Identifier=".voc" ProgId="VLC.voc" ApplicationName="VLC media player" />
+  <Association Identifier=".wav" ProgId="VLC.wav" ApplicationName="VLC media player" />
+  <Association Identifier=".WAX" ProgId="WMP11.AssocFile.WAX" ApplicationName="Windows Media Player" />
+  <Association Identifier=".website" ProgId="IE.AssocFile.WEBSITE" ApplicationName="Internet Explorer" />
+  <Association Identifier=".wma" ProgId="VLC.wma" ApplicationName="VLC media player" />
+  <Association Identifier=".wmd" ProgId="WMP11.AssocFile.WMD" ApplicationName="Windows Media Player" />
+  <Association Identifier=".wmf" ProgId="wmffile" ApplicationName="Paint" />
+  <Association Identifier=".wms" ProgId="WMP11.AssocFile.WMS" ApplicationName="Windows Media Player" />
+  <Association Identifier=".wmv" ProgId="VLC.wmv" ApplicationName="VLC media player" />
+  <Association Identifier=".WMX" ProgId="WMP11.AssocFile.ASX" ApplicationName="Windows Media Player" />
+  <Association Identifier=".wmz" ProgId="WMP11.AssocFile.WMZ" ApplicationName="Windows Media Player" />
+  <Association Identifier=".WPL" ProgId="WMP11.AssocFile.WPL" ApplicationName="Windows Media Player" />
+  <Association Identifier=".WVX" ProgId="VLC.wvx" ApplicationName="VLC media player" />
+  <Association Identifier=".xm" ProgId="VLC.xm" ApplicationName="VLC media player" />
+  <Association Identifier=".xps" ProgId="Windows.XPSReachViewer" ApplicationName="XPS Viewer" />
+  <Association Identifier="DLNA-PLAYSINGLE" ProgId="WMP11.AssocProtocol.DLNA-PLAYSINGLE" ApplicationName="Windows Media Player" />
+  <Association Identifier="http" ProgId="FirefoxURL" ApplicationName="Firefox" />
+  <Association Identifier="https" ProgId="FirefoxURL" ApplicationName="Firefox" />
+  <Association Identifier="mailto" ProgId="Outlook.URL.mailto.15" ApplicationName="Outlook 2016" />
+  <Association Identifier="MMS" ProgId="WMP11.AssocProtocol.MMS" ApplicationName="Windows Media Player" />
+</DefaultAssociations>
